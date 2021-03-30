@@ -1,10 +1,10 @@
-spring.h2.console.enabled = true
-spring.h2.consolesettings.web-allow-others= true
+spring.h2.console.enabled: "true"
+spring.h2.consolesettings.web-allow-others: "true"
 
-spring.jpa.show-sql=true true
+spring.jpa.show-sql: "true"
 
-example.property= "I AM IN THE DEFAULT"
+example.property: "I AM IN THE DEFAULT"
 
-server.port= 9091
+server.port: "9091"
 
 
