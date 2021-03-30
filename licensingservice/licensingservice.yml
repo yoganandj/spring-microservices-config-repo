@@ -3,6 +3,6 @@ spring.h2.consolesettings.web-allow-others: "true"
 
 spring.jpa.show-sql: "true"
 
-example.property: "I AM IN THE DEFAULT -GIT"
+example.property: "I AM IN THE DEFAULT -GIT123"
 
 server.port: "9091"
