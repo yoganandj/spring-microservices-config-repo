@@ -1,20 +1,10 @@
-spring:
-  # enable H2 web console and set url for web console
-  # http://localhost:8080/console
-  h2:
-    console:
-      enabled: true
-      settings:
-        web-allow-others: true
+spring.h2.console.enabled = true
+spring.h2.consolesettings.web-allow-others= true
 
+spring.jpa.show-sql=true true
 
-  jpa:
-    show-sql: true
+example.property= "I AM IN THE DEFAULT"
 
-example:
-  property: "I AM IN THE DEFAULT"
-
-server:
-  port: 9091
+server.port= 9091
 
 
