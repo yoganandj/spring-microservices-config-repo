@@ -1,1 +1,5 @@
 example.organization.property: "I AM THE DEFAULT ORGANIZATION SERVICE"
+spring.h2.console.enabled: "true"
+spring.h2.consolesettings.web-allow-others: "true"
+
+spring.jpa.show-sql: "true"
